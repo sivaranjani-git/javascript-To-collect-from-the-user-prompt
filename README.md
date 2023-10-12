@@ -1,0 +1,1 @@
+# javascript-To-collect-from-the-user-prompt
